@@ -1,4 +1,4 @@
-# dsh-raser
+# dsh-raser 仓库说明
 
 Repository watched by **dsh-superagent**.
 
